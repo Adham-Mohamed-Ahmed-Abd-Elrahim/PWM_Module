@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -9.862
+TNS   : -17.822
+
+Type  : Slow 1200mV 85C Model Setup 'en'
+Slack : -9.662
+TNS   : -40.371
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.260
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'en'
+Slack : 1.527
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clk'
+Slack : -0.338
+TNS   : -1.656
+
+Type  : Slow 1200mV 85C Model Removal 'clk'
+Slack : 0.287
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -13.409
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'en'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -9.251
+TNS   : -16.781
+
+Type  : Slow 1200mV 0C Model Setup 'en'
+Slack : -9.138
+TNS   : -38.149
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.244
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'en'
+Slack : 1.446
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clk'
+Slack : -0.229
+TNS   : -1.116
+
+Type  : Slow 1200mV 0C Model Removal 'clk'
+Slack : 0.253
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -13.409
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'en'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -4.327
+TNS   : -7.977
+
+Type  : Fast 1200mV 0C Model Setup 'en'
+Slack : -3.514
+TNS   : -14.297
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'en'
+Slack : 0.548
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clk'
+Slack : -0.279
+TNS   : -1.378
+
+Type  : Fast 1200mV 0C Model Removal 'clk'
+Slack : 0.107
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -10.448
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'en'
+Slack : -3.000
+TNS   : -3.000
+
+------------------------------------------------------------
