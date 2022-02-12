@@ -9,24 +9,23 @@ z2
 cModel Technology
 dD:/Work Zone/Second_Year_Vacation/Verification of MIPS
 vPWM
-!s110 1641512725
+!s110 1644697554
 !i10b 1
-!s100 d8]zTmf_E9=APhcn8REYM3
-Ij8N`N6S4C@YfkB8lRNj782
+!s100 :VWVBX:VSdW?G1U>o<6BI0
+IeBXL5cR=_GmY9FQ8o6[YQ0
 VDg1SIo80bB@j0V0VzS_@n1
-dD:/Work Zone/Digital_Projects(Mid_year_vacation)/PWM
-w1641512721
-8D:\Work Zone\Digital_Projects(Mid_year_vacation)\PWM\PWM.v
-FD:\Work Zone\Digital_Projects(Mid_year_vacation)\PWM\PWM.v
+dD:/Work Zone/(Mid_year_vacation)/Projects/PWM
+w1644697542
+8.\PWM.v
+F.\PWM.v
 L0 1
 OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1641512725.000000
-!s107 D:\Work Zone\Digital_Projects(Mid_year_vacation)\PWM\PWM.v|
-!s90 -reportprogress|300|-work|work|-stats=none|D:\Work Zone\Digital_Projects(Mid_year_vacation)\PWM\PWM.v|
+!s108 1644697554.000000
+!s107 .\PWM.v|
+!s90 .\PWM.v|
 !i113 1
-o-work work
 tCvgOpt 0
 n@p@w@m

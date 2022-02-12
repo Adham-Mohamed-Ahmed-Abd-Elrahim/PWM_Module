@@ -1,0 +1,6 @@
+
+State Machine - |PWM|current_state
+Name current_state.idle_state current_state.low current_state.high 
+current_state.idle_state 0 0 0 
+current_state.high 1 0 1 
+current_state.low 1 1 0 

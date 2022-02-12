@@ -1,16 +1,16 @@
-Fitter Status : Successful - Sat Jan 08 01:22:16 2022
+Fitter Status : Successful - Sat Feb 12 22:40:28 2022
 Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
 Revision Name : PWM
 Top-level Entity Name : PWM
 Family : Cyclone IV E
-Device : EP4CE6E22C8
+Device : EP4CE6E22C8L
 Timing Models : Final
-Total logic elements : 21 / 6,272 ( < 1 % )
-    Total combinational functions : 21 / 6,272 ( < 1 % )
-    Dedicated logic registers : 7 / 6,272 ( < 1 % )
-Total registers : 7
-Total pins : 8 / 92 ( 9 % )
+Total logic elements : 586 / 6,272 ( 9 % )
+    Total combinational functions : 440 / 6,272 ( 7 % )
+    Dedicated logic registers : 427 / 6,272 ( 7 % )
+Total registers : 427
+Total pins : 6 / 92 ( 7 % )
 Total virtual pins : 0
-Total memory bits : 0 / 276,480 ( 0 % )
+Total memory bits : 640 / 276,480 ( < 1 % )
 Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
 Total PLLs : 0 / 2 ( 0 % )
